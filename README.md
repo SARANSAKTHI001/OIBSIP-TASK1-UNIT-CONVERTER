@@ -6,6 +6,12 @@
 
 Welcome to the Unit Conversion App repository! This Android application simplifies unit conversions for its users. With a user-friendly interface and real-time conversion capabilities, this app allows you to effortlessly convert values from one unit to another.
 
+## sample video
+
+https://github.com/SARANSAKTHI001/OIBSIP-TASK1-UNIT-CONVERTER/assets/118273982/401ac243-dfd8-4514-aaaf-35967a11bd66
+
+
+
 ## Features
 
 - **User-Friendly Interface**: An intuitive interface that enables users to input values and select desired conversion units.
